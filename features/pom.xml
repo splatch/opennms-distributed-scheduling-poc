@@ -76,7 +76,8 @@
                 <feature>framework</feature>
               </framework>
               <features>
-                <feature>ignite*</feature>
+                <feature>ignite-poc</feature>
+                <feature>ignite-poc-rest</feature>
               </features>
             </configuration>
           </execution>
